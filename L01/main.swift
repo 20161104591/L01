@@ -5,8 +5,8 @@
 //  Created by XYF on 18/9/5.
 //  Copyright © 2018年 XYF. All rights reserved.
 //
-
 import Foundation
+
 
 var sum=0
 var i=0
